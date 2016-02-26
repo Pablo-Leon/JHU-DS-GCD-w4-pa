@@ -1,9 +1,7 @@
-# # JHU-DS-GCD-w4-pa
-# JHU DS MOOC Getting and Cleaning Data, week 4,  Prog.Assigment.
-# 
-
 README.md
 =========
+
+
 
 
    * JHU-DS MOOC Course 
@@ -12,6 +10,9 @@ README.md
    * By : Pablo León  (p.leon@ieee.org)
       * 2016-02-25
 
+   * Repo info
+      * JHU-DS-GCD-w4-pa
+      * JHU DS MOOC Getting and Cleaning Data, week 4,  Prog.Assigment.
 
 Intro
 ------
